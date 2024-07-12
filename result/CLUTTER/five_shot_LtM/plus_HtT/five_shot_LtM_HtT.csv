@@ -1,0 +1,51 @@
+,answer,relation,target
+0,<father><father>Father's father is grandfather.,ancestor,grandfather
+1,<daughter><aunt>Daughter's aunt is sister.,relationship.,sister
+2,<Son’s><daughter> Son’s daughter is granddaughter.,granddaughter,granddaughter
+3,<daughter><daughter>Daughter's daughter is granddaughter.,granddaughter,granddaughter
+4,<son><uncle>Son’s uncle is brother.,relationship.,brother
+5,<granddaughter><brother>Granddaughter’s brother is grandson.,family,grandson
+6,<mother><mother>Mother's mother is grandmother.,family,grandmother
+7,<daughter><uncle>Daughter's uncle is brother.,brother,brother
+8,<Husband’s><daughter>Husband’s daughter is daughter.,daughter.,daughter
+9,<Son’s><grandmother> Son’s grandmother is mother.,family,mother
+10,<daughter><sister>Daughter’s sister is daughter.,relative,daughter
+11,<son><wife>Son’s wife is daughter-in-law.,family,daughter-in-law
+12,<father><brother> Father's brother is uncle.,uncle,uncle
+13,<Husband’s><granddaughter>Husband’s granddaughter is granddaughter.,relative,granddaughter
+14,<Husband’s><mother>Husband’s mother is mother-in-law.,family,mother-in-law
+15,<brother><sister>Brother’s sister is sister.,relationship.,sister
+16,<Sister’s><sister>Sister’s sister is sister.,relative,sister
+17,<wife><father>Wife’s father is father-in-law.,family,father-in-law
+18,<sister><father>Sister's father is father.,relative,father
+19,<father><mother> Father’s mother is grandmother.,grandmother.,grandmother
+20,<brother><mother>Brother's mother is mother.,mother,mother
+21,<daughter><grandmother>Daughter’s grandmother is mother.,relative,mother
+22,<grandson><sister>Grandson's sister is granddaughter.,family,granddaughter
+23,<son><sister>Son's sister is daughter.,relative,daughter
+24,<mother><son> Mother's son is brother.,brother,brother
+25,<granddaughter><sister>Granddaughter’s sister is granddaughter.,family,granddaughter
+26,<daughter><son>Daughter’s son is grandson.,genetics,grandson
+27,<father><sister>Father's sister is aunt.,aunt.,aunt
+28,<Wife’s><daughter>Wife’s daughter is daughter.,relative,daughter
+29,<Sister’s><mother>Sister’s mother is mother.,family,mother
+30,<brother><sister>Brother’s sister is sister.,relationship.,sister
+31,<Sister’s><brother>Sister’s brother is brother.,sibling.,brother
+32,<sister><father>Sister's father is father.,relative,father
+33,<Son’s><grandmother> Son’s grandmother is mother.,family,mother
+34,<daughter><daughter>Daughter's daughter is granddaughter.,granddaughter,granddaughter
+35,<daughter><grandfather>Daughter’s grandfather is father.,relative,father
+36,<Husband’s><father>Husband’s father is father-in-law.,family,father-in-law
+37,<son><son>Son's son is grandson.,grandson,grandson
+38,<wife><father>Wife’s father is father-in-law.,family,father-in-law
+39,<Husband’s><granddaughter>Husband’s granddaughter is granddaughter.,relative,granddaughter
+40,<Sister’s><daughter>Sister’s daughter is niece.,niece,niece
+41,<Sister’s><brother>Sister’s brother is brother.,sibling.,brother
+42,<son><brother>Son's brother is brother.,brother,son
+43,<mother><mother>Mother's mother is grandmother.,family,grandmother
+44,<father><father>Father's father is grandfather.,ancestor,grandfather
+45,<grandson><brother>Grandson’s brother is grandson.,brother.,grandson
+46,<brother><daughter>Brother’s daughter is niece.,niece.,niece
+47,<daughter><aunt>Daughter's aunt is sister.,relationship.,sister
+48,<Son’s><aunt> Son’s aunt is sister.,relationship.,sister
+49,<daughter><sister>Daughter’s sister is daughter.,relative,daughter
